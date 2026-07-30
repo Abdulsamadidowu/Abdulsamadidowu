@@ -14,7 +14,8 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-three-blush-24.vercel.app/api?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-three-blush-24.vercel.app/api?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-stats-three-blush-24.vercel.app/api/top-langs/?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
