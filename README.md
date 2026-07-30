@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 
 🚀 Background: Frontend developer (~2 years) with roots in mechanical engineering, auto repair, CAD design and shoemaking — I like building things, digital or physical.<br>🌐 Team Ups: Open to collaboration on frontend or full-stack work.<br>📘 Current Stack: React 19, TypeScript, Vue.js, TanStack Query, Zustand, Vite.<br>🔍 Also Exploring: AI training and data review work — evaluating model outputs, annotation, and quality checks.<br>🛠️ Outside Code: Hands-on trades — worked as an auto technician, learned CAD design, metal work fabrication and industrial shoemaking.
 
@@ -9,14 +9,25 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%2320232a.svg?style=for-the-badge&logo=bun&logoColor=fff)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38.svg?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-three-blush-24.vercel.app/api?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-three-blush-24.vercel.app/api?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-three-blush-24.vercel.app/api/top-langs/?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats-three-blush-24.vercel.app/api/top-langs/?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats-three-blush-24.vercel.app/api?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats-three-blush-24.vercel.app/api/top-langs/?username=Abdulsamadidowu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdulsamadidowu&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
